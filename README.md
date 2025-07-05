@@ -15,13 +15,13 @@ I'm a Senior Frontend Engineer based in Amsterdam, currently working at [Coolblu
 
 ## 🔧 Technologies & Tools
 
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000&style=flat)  
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)  
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=fff&style=flat)  
-![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=fff&style=flat)  
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=fff&style=flat)  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=fff&style=flat)  
-![Kafka](https://img.shields.io/badge/-Kafka-231F20?logo=apachekafka&logoColor=fff&style=flat)
+[![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000&style=flat)](https://react.dev/)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)](https://www.typescriptlang.org/)
+[![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=fff&style=flat)](https://nextjs.org/)
+[![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=fff&style=flat)](https://www.oracle.com/java/)
+[![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=fff&style=flat)](https://nestjs.com/)
+[![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=fff&style=flat)](https://www.docker.com/)
+[![Kafka](https://img.shields.io/badge/-Kafka-231F20?logo=apachekafka&logoColor=fff&style=flat)](https://kafka.apache.org/)
 
 ---
 
