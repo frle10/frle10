@@ -6,26 +6,26 @@ I'm a Senior Frontend Engineer based in Amsterdam, currently working at [Coolblu
 
 ## 🚀 About Me
 
-- 💻 Passionate about frontend architecture, system design, and clean code
-- 🏗️ Experienced in scaling systems and teams in both startups and enterprise settings
-- 🌐 Creator of [frle.dev](https://frle.dev) — my personal portfolio and blog
-- 📚 Always learning, currently exploring accessibility, web performance, and SEO
+- 💻 Passionate about frontend architecture, system design, and clean code  
+- 🏗️ Experienced in scaling systems and teams in startups and enterprise environments  
+- 🌐 Creator of [frle.dev](https://frle.dev) — my personal portfolio and blog  
+- 📚 Continuously learning, currently exploring accessibility, web performance, and SEO  
 
 ---
 
 ## 🔧 Technologies & Tools
 
-[![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000&style=flat)](https://react.dev/)
-[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)](https://www.typescriptlang.org/)
-[![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=fff&style=flat)](https://nextjs.org/)
-[![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=fff&style=flat)](https://www.oracle.com/java/)
-[![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=fff&style=flat)](https://nestjs.com/)
-[![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=fff&style=flat)](https://www.docker.com/)
-[![Kafka](https://img.shields.io/badge/-Kafka-231F20?logo=apachekafka&logoColor=fff&style=flat)](https://kafka.apache.org/)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.oracle.com/java/)
+[![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)](https://kafka.apache.org/)
 
 ---
 
 ## 📫 Let's Connect
 
-- [frle.dev](https://frle.dev) — My personal site & portfolio
+- [frle.dev](https://frle.dev) — My personal site & portfolio  
 - [LinkedIn](https://linkedin.com/in/ivanskorupan) — Professional profile
